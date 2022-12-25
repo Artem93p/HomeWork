@@ -6,7 +6,7 @@
 double Promt(string str)
 {
     Console.Write(str);
-    int result = int.Parse(Console.ReadLine());
+    double result = double.Parse(Console.ReadLine());
     return result;
 }
 
