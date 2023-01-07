@@ -14,10 +14,10 @@ void ShowArray (int[,,] array )
         {
             for (int q = 0; q < array.GetLength(2); q++)
             {
-                Console.Write($"{array[i,j,q]}({i}{j}{q}) ");
+                Console.Write($"{array[i,j,q]}({i},{j},{q}) ");
             }
+                    Console.WriteLine();
         }
-        Console.WriteLine();
     }
 }
 
