@@ -4,3 +4,47 @@
 // 12 13 14 05
 // 11 16 15 06
 // 10 09 08 07
+
+void PrintArray(int[,] array)
+{
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            Console.Write(array[i, j] + " ");
+        }
+        Console.WriteLine("");
+    }
+}
+
+int EnterNumber(string message)
+{
+    System.Console.Write(message);
+    int number = int.Parse(System.Console.ReadLine());
+    return number;
+}
+
+int size = EnterNumber ("Введите размер массива : ");
+
+int[,] nums = new int[size, size];
+
+int num = 1;
+int i = 0;
+int j = 0;
+
+while (num <= size * size)
+{
+    nums[i, j] = num;
+    if (i <= j + 1 && i + j < size - 1)
+        ++j;
+    else if (i < j && i + j >= size - 1)
+        ++i;
+    else if (i >= j && i + j > size - 1)
+        --j;
+    else
+        --i;
+    ++num;
+}
+
+PrintArray(nums);
+

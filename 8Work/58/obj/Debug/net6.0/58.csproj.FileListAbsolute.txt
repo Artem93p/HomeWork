@@ -1,0 +1,15 @@
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\8Work\58\bin\Debug\net6.0\58.exe
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\8Work\58\bin\Debug\net6.0\58.deps.json
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\8Work\58\bin\Debug\net6.0\58.runtimeconfig.json
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\8Work\58\bin\Debug\net6.0\58.dll
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\8Work\58\bin\Debug\net6.0\58.pdb
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\8Work\58\obj\Debug\net6.0\58.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\8Work\58\obj\Debug\net6.0\58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\8Work\58\obj\Debug\net6.0\58.AssemblyInfoInputs.cache
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\8Work\58\obj\Debug\net6.0\58.AssemblyInfo.cs
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\8Work\58\obj\Debug\net6.0\58.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\8Work\58\obj\Debug\net6.0\58.dll
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\8Work\58\obj\Debug\net6.0\refint\58.dll
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\8Work\58\obj\Debug\net6.0\58.pdb
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\8Work\58\obj\Debug\net6.0\58.genruntimeconfig.cache
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\8Work\58\obj\Debug\net6.0\ref\58.dll
