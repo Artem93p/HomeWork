@@ -16,7 +16,7 @@ void ShowArray (int[,,] array )
             {
                 Console.Write($"{array[i,j,q]}({i},{j},{q}) ");
             }
-                    Console.WriteLine();
+            Console.WriteLine();
         }
     }
 }
