@@ -1,0 +1,15 @@
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\9Work\66\bin\Debug\net6.0\66.exe
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\9Work\66\bin\Debug\net6.0\66.deps.json
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\9Work\66\bin\Debug\net6.0\66.runtimeconfig.json
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\9Work\66\bin\Debug\net6.0\66.dll
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\9Work\66\bin\Debug\net6.0\66.pdb
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\9Work\66\obj\Debug\net6.0\66.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\9Work\66\obj\Debug\net6.0\66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\9Work\66\obj\Debug\net6.0\66.AssemblyInfoInputs.cache
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\9Work\66\obj\Debug\net6.0\66.AssemblyInfo.cs
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\9Work\66\obj\Debug\net6.0\66.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\9Work\66\obj\Debug\net6.0\66.dll
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\9Work\66\obj\Debug\net6.0\refint\66.dll
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\9Work\66\obj\Debug\net6.0\66.pdb
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\9Work\66\obj\Debug\net6.0\66.genruntimeconfig.cache
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\HomeWork\9Work\66\obj\Debug\net6.0\ref\66.dll
